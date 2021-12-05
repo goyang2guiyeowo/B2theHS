@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29503.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GGP_TP", "GGP_TP.vcxproj", "{5EFD54EE-FFF8-4E30-8F95-D99A6D390877}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "GGP_TP_Setup", "..\GGP_TP_Setup\GGP_TP_Setup.vdproj", "{DA4A9FB7-ADD5-4CA2-A208-1F1D3E2C7F56}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "B2theHS_installer", "..\B2theHS_installer\B2theHS_installer.vdproj", "{C7692EFC-6B16-41D9-BCDE-A063271737DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{5EFD54EE-FFF8-4E30-8F95-D99A6D390877}.Release|x64.Build.0 = Release|x64
 		{5EFD54EE-FFF8-4E30-8F95-D99A6D390877}.Release|x86.ActiveCfg = Release|Win32
 		{5EFD54EE-FFF8-4E30-8F95-D99A6D390877}.Release|x86.Build.0 = Release|Win32
-		{DA4A9FB7-ADD5-4CA2-A208-1F1D3E2C7F56}.Debug|x64.ActiveCfg = Debug
-		{DA4A9FB7-ADD5-4CA2-A208-1F1D3E2C7F56}.Debug|x86.ActiveCfg = Debug
-		{DA4A9FB7-ADD5-4CA2-A208-1F1D3E2C7F56}.Release|x64.ActiveCfg = Release
-		{DA4A9FB7-ADD5-4CA2-A208-1F1D3E2C7F56}.Release|x86.ActiveCfg = Release
+		{C7692EFC-6B16-41D9-BCDE-A063271737DF}.Debug|x64.ActiveCfg = Debug
+		{C7692EFC-6B16-41D9-BCDE-A063271737DF}.Debug|x86.ActiveCfg = Debug
+		{C7692EFC-6B16-41D9-BCDE-A063271737DF}.Release|x64.ActiveCfg = Release
+		{C7692EFC-6B16-41D9-BCDE-A063271737DF}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
