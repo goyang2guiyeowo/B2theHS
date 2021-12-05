@@ -3,8 +3,6 @@
 
 [![(자막을 켜주세요) Back To The HighSchool](https://img.youtube.com/vi/TKHDhszoSu8/0.jpg)](https://www.youtube.com/watch?v=TKHDhszoSu8) <br />
   ▲이미지를 누르면 플레이 영상을 볼 수 있습니다! <br /> <br />
-
-or 유튜브 링크 ▼ <br />
 https://www.youtube.com/watch?v=TKHDhszoSu8
 
 
